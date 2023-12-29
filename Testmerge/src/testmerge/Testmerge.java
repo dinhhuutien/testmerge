@@ -14,7 +14,7 @@ public class Testmerge {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int i=10;
+
         System.out.println("day lqqqqqa dht");
          System.out.println("day lqqqqqa dht");
           System.out.println("day lqqđaqqqa dht");
@@ -27,6 +27,9 @@ public class Testmerge {
         
 
           
+
+        System.out.println("day lqqqqqa dht");
+
     }
     
 }

@@ -15,6 +15,8 @@ public class Testmerge {
      */
     public static void main(String[] args) {
         System.out.println("day lqqqqqa dht");
+         System.out.println("day lqqqqqa dht");
+          System.out.println("day lqqqqqa dht");
     }
     
 }
